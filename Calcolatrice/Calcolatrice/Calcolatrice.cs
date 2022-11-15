@@ -12,7 +12,7 @@ namespace Calcolatrice
         public decimal Display { get; set; }
         public decimal Result { get; set; }
         public string Operazione { get; set; }
-
+        //TODO
         public Calcolatrice()
         {
             this.Display = 0;
