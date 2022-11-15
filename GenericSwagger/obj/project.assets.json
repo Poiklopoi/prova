@@ -224,19 +224,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\angel\\.nuget\\packages\\": {}
+    "C:\\Users\\Danilo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angel\\Desktop\\swagger\\GenericSwagger\\GenericSwagger\\GenericSwagger.csproj",
+      "projectUniqueName": "C:\\Users\\Danilo\\OneDrive\\Desktop\\repositoryprova\\prova\\GenericSwagger\\GenericSwagger.csproj",
       "projectName": "GenericSwagger",
-      "projectPath": "C:\\Users\\angel\\Desktop\\swagger\\GenericSwagger\\GenericSwagger\\GenericSwagger.csproj",
-      "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\angel\\Desktop\\swagger\\GenericSwagger\\GenericSwagger\\obj\\",
+      "projectPath": "C:\\Users\\Danilo\\OneDrive\\Desktop\\repositoryprova\\prova\\GenericSwagger\\GenericSwagger.csproj",
+      "packagesPath": "C:\\Users\\Danilo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Danilo\\OneDrive\\Desktop\\repositoryprova\\prova\\GenericSwagger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Danilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
